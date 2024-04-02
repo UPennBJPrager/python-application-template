@@ -1,5 +1,7 @@
 # python-application-template
 
+## This repository is meant to be a test case for deploying applications to pennsieve.
+
 Ensure that your main file is ececutable and also makes use of the `INPUT_DIR` and the `OUTPUT_DIR` ENVIRONMENT variables, to access input files and to write output.
 
 Add additional dependencies to the `Dockerfile`.
